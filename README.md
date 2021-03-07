@@ -44,6 +44,7 @@ Services:
   * TypeScript
   * Styled components
   * Unform
+  * Yup
 
 <a id="run"></a><br>
 
