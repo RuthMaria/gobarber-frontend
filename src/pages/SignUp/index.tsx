@@ -7,8 +7,8 @@ import Input from '../../components/Input';
 import Button from '../../components/Button';
 
 const SignUp: React.FC = () => {
-  function handleSubmit(data): void {
-    console.log(data);
+  function handleSubmit(): void {
+    const a = 1;
   }
 
   return (
