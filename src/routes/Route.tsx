@@ -7,6 +7,7 @@ import {
 
 import { useAuth } from '../hooks/Auth';
 
+// ReactDomRouteProps fornece todas as propriedades que uma rota tem
 interface RouteProps extends ReactDomRouteProps {
   isPrivate?: boolean;
   component: React.ComponentType;
